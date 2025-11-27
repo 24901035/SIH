@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date:
-## Reference Number:
+## Reference Number
 ## Name:
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
